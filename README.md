@@ -1,7 +1,7 @@
 # Chemical and Biomolecular Engineer
 
 
-## Education							       		
+## Education						       		
 - M.S., Chemical Engineering	| NYU Tandon School of Engineering (_May 2023_)	 			        		
 - B.S., Chemical and Biomolecular Engineering | NYU Tandon School of Engineering (_May 2020_)
 
