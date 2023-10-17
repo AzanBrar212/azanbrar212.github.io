@@ -9,41 +9,55 @@
 
 **Research Associate @ Multifunctional Material Systems Laboratory (_Jan 2019 - Jan 2023_)**
 
-This is a setnece about the projects done 
+Worked on two main projects over my time:
 
 Autonomous Reactors						
-- Programmed algorithms in Python and LabVIEW to automate large scale data collection and analysis for Fourier Transform Infrared Spectroscopy (FTIR) data and injection pumps. 
-- Built Machine learning regression models in Python to analyse a wide range of FTIR spectral data for ethanol production, drastically reducing experimental resources, labour, and time.
+- Programmed algorithms in Python and LabVIEW to automate large-scale data collection and analysis for Fourier Transform Infrared Spectroscopy (FTIR) data and injection pumps. 
+- Built Machine learning regression models in Python to analyze a wide range of FTIR spectral data for ethanol production, drastically reducing experimental resources, labor, and time.
 
 Membrane Electrode Catalysis 				                   	
-- Designed electrochemical fuel cells for a new Nylon 6,6 manufacturing plant funded by the H&M foundation in efforts of accelerating sustainable fashion. 
-- Researched unique heavy metal catalysts for organic electrosynthesis of Hexamethylenediamine from Adiponitrile, removing the need for fossil fuel use in polymer material production to reach the carbon neutral goals of the foundation.
+- Designed electrochemical fuel cells for a new Nylon 6,6 manufacturing plant funded by the H&M foundation in efforts to accelerate sustainable fashion. 
+- Researched unique heavy metal catalysts for organic electrosynthesis of Hexamethylenediamine from Adiponitrile, removing the need for fossil fuel use in polymer material production to reach the carbon-neutral goals of the foundation.
 
 **Head Instructor @ Polytechnic Tutoring Centre, NYU (_Sept 2017 - Dec 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-**Teaching Assistant @ Shawhin Talebi Ventures LLC (_Sept 2017 - Dec 2020_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Formulated comprehensive written exams to evaluate the skills of prospective tutors. Additionally conducted various review sessions for all engineering courses. 
+- Administered the hiring of new instructors and facilitated tutoring for General Chemistry, Biomolecular Science, Organic Chemistry, Transport Phenomena and Thermodynamics
+
+**Teaching Assistant @ Department of Chemical and Biomolecular Engineering, NYU (_Sept 2017 - Dec 2020_)**
+
+- Process Design for Engineering Unit Operations: Led groups of 25 students on principles of process design for industrial-scale manufacturing, supervised experiments on the operations of industrial components such as pump flow controls, distillation columns, and stirred tank reactor kinetics.
+- Business and Technology Seminar: Lectured cohorts of 20 students every semester on the principles of design thinking, innovative problem solving, lean manufacturing, start-up methodologies, and iterative processes. Supervised the prototyping and design of semester-long engineering projects. 
 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, MATLAB, LabVIEW, Java, PyTorch, SQL, R-Studio, HTML, COMSOL Multiphysics
 
 ## Technical Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Design Projects**
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Vanadium Micro-Redox Flow Battery   
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Researched and designed a chemical microfluidic reactor for a vanadium redox flow battery, providing an operational, scalable and low cost alternative to produce competitive power levels.
+- Using COMSOL Multiphysics and computational fluid dynamics, the vanadium flow battery was conceptualized able to achieve current densities around 30mA/cm2 higher than standard.
+  
+### Membrane-less Electrochemical Reactor
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Designed a bifurcated channel electrochemical reactor for higher production rates of chlorine and carbon monoxide.
+- Optimized reactor collection efficiencies of over 99.9% at a reactor height of 0.019 cm using COMSOL Multiphysics.
+ 
+**Software Projects**
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Computational Biology for DNA sequencing 
+
+- Generated string-matching algorithms in Python using the concepts of dynamic programming, which were utilized to identify mismatches between sets of DNA strands that lead to dangerous mutations.
+- Tested various sorting algorithms in Python to differentiate genome sequences for mutations across multiple species, helping to identify patterns in DNA to predict possible disease variations before they arise.
+
+### Nanoparticle self-assembly simulation 
+
+- Used Boltzmann probability distributions to develop Metropolis Monte Carlo simulations in MATLAB describing the self-assembled crystal structures in a set of nanoparticles.
+- Resultant model was used to optimize the lowest energy state, decreasing the energy cost for nanoparticle assembly by tenfold.
+
 
 ## Academic Projects
 
@@ -58,14 +72,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Organisations
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Tau Beta Pi: Part of the largest professional engineering society for students with the highest academic excellence.  
+- Omega Chi Epsilon: Member of the largest chemical engineering honor society for being amongst the top of my class. 
+- Societe de Chimie Industrielle: Invited to the professional industrial society, joined symposiums and the mentorship program. 
+- Parliamentary Debating Union: Participated in and facilitated many different debate and public speaking competitions
+- American Institute of Chemical Engineers: Advocating for members to get involved in the engineering community
 
 - [Data Science Blog](https://medium.com/@shawhin)
