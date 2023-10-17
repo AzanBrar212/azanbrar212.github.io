@@ -8,8 +8,16 @@
 ## Work Experience
 
 **Research Associate @ Multifunctional Material Systems Laboratory (_Jan 2019 - Jan 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+This is a setnece about the projects done 
+
+Autonomous Reactors						
+- Programmed algorithms in Python and LabVIEW to automate large scale data collection and analysis for Fourier Transform Infrared Spectroscopy (FTIR) data and injection pumps. 
+- Built Machine learning regression models in Python to analyse a wide range of FTIR spectral data for ethanol production, drastically reducing experimental resources, labour, and time.
+
+Membrane Electrode Catalysis 				                   	
+- Designed electrochemical fuel cells for a new Nylon 6,6 manufacturing plant funded by the H&M foundation in efforts of accelerating sustainable fashion. 
+- Researched unique heavy metal catalysts for organic electrosynthesis of Hexamethylenediamine from Adiponitrile, removing the need for fossil fuel use in polymer material production to reach the carbon neutral goals of the foundation.
 
 **Head Instructor @ Polytechnic Tutoring Centre, NYU (_Sept 2017 - Dec 2022_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
