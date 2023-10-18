@@ -62,14 +62,27 @@ Membrane Electrode Catalysis
 ## Academic Projects
 
 ## Online Courses
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Following online courses completed from Coursera and the certificates are attached on my LinkedIn.
+
+**Math and Physics** 
+
+- Vector Calculus for Engineers
+- Electrodynamics: An Introduction
+- Electrodynamics: Analysis of Electric Fields
+- Electrodynamics: Electric and Magnetic Fields
+- Understanding Einstein: The Special Theory of Relativity
+
+**Data Science** 
+
+- What is Data Science?
+- Tools for Data Science
+- Python for Data Science, AI & Development
+- Python Project for Data Science
+- Data Science Methodology
+- Databases and SQL for Data Science with Python
+- Data Analysis with Python
+- Machine Learning with Python
 
 ## Organisations
 - Tau Beta Pi: Part of the largest professional engineering society for students with the highest academic excellence.  
